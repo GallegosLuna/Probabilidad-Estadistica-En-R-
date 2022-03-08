@@ -5,3 +5,5 @@ Estudio variado sobre probabilidad y estadistica en el lenguaje de programacion 
 # Caminata aleatoria
 [Simulacion de una caminata aleatoria](https://github.com/GallegosLuna/Probabilidad-Estadistica-En-R-/blob/main/Simulacion%20de%20una%20caminata%20aleatoria.pdf)
 
+# Analisis de supervivencia (reclamos de una empresa sobre sus ventas)
+[Analisis de supervivencia](https://github.com/GallegosLuna/Probabilidad-Estadistica-En-R-/blob/main/Simulacion%20de%20una%20caminata%20aleatoria.pdf)
